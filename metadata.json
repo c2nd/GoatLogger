@@ -1,0 +1,6 @@
+{
+  "name": "FOLIO — The Monochrome Journal",
+  "description": "An editorial publication dedicated to architectural theory, minimalist industrial design, typography, and contemporary culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
